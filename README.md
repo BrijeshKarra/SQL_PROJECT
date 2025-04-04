@@ -6,7 +6,7 @@
  # Background
  Given this is my first SQL project ever, I wanted it to be related to my actual goal, which is to become  a data analyst. The Data used in the course is based on the online course [SQL for Data Analytics](https://www.lukebarousse.com/sql) by [Luke Barousse](https://github.com/lukebarousse).
 
- **The main tasks of the Project was to analyze the Data Jobs Market, specifically the Data Analyst Jobs. This was achieved by making SQL queries to answer the following questions:**
+ **The main task of the Project was to analyze the Data Jobs Market, specifically the Data Analyst Jobs. This was achieved by making SQL queries to answer the following questions:**
 
 1. What are the top-paying data analyst jobs?
 2. What skills are required for these top-paying jobs?
@@ -20,7 +20,7 @@ It was my first time using all of these tools, I do have experience with other t
 - **SQL:** The coding language for the whole project.
 - **PostgreSQL:** The chosen database management system, ideal for handling the job posting data.
 - **Visual Studio Code:** Best tool for this project.
-- **PowerBI:** Used to create graphics.
+- **Power BI:** Used to create graphics.
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
  # The Analysis
 
@@ -301,7 +301,7 @@ Working on this project was fun, be it using the CTEs or messig up the JOINS, It
 
  # Conclusions
 Results from the Analysis:
-1. **Top-Paying Data Analyst Jobs:** The highest-paying jobs for data analysts that allow remote work offer a wide range of salaries with the highest being at $650,000!
+1. **Top-Paying Data Analyst Jobs:** The highest-paying jobs for data analysts that allow remote work offer a wide range of salaries with the highest being at $650,000, while the highest salary for the non-remote postion is 400,000.
 2. **Skills for Top-Paying Jobs:** The high-paying data analyst jobs require advanced proficiency in SQL, suggesting it’s a critical skill for earning a top salary.
 3. **Most In-Demand Skills:** SQL is also the most demanded skill in the data analyst job market, thus making it essential for job seekers.
 4. **Skills with Higher Salaries:** Specialized skills, such as SVN and Solidity, are associated with the highest average salaries, indicating a premium on niche expertise.
