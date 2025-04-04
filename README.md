@@ -71,7 +71,7 @@ Going beyond the ask of the project, I created the same graph but for non-remote
 
 Here's the result:
 
-![Top Paying Non-Remote Jobs](assets\Top_10_paying_non_remote_data_analyst_jobs_2023.png)
+![Top Paying Non-Remote Jobs](Top_10_paying_non_remote_data_analyst_jobs_2023.png)
 _Bar graph describing average yearly salaries for the Top 10 non-remote data analysts postions. Created using Power BI._
 
 And the results:
@@ -115,7 +115,7 @@ ORDER BY
 
 
 
-![top Skills Count](assets\Skill_vs_count_remote.png)
+![top Skills Count](Skill_vs_count_remote.png)
 _Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts. Created using Power BI._
 
 And the results:
