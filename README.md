@@ -1,5 +1,5 @@
  # Introduction
- This project revolves around the DATA JOBS MARKET and involves analysis resulting in solving queries to answer questions related to top paying jobs, skills in high demand and much more, with main focus on DATA ANALYST JOBS.
+ This project revolves around the DATA JOBS MARKET and involves analysis resulting in writing queries to answer questions related to top paying jobs, skills in high demand and much more, with main focus on DATA ANALYST JOBS.
 
  To check the SQL queries go to [project_sql Folder](/project_sql/)
 
@@ -304,5 +304,5 @@ Results from the Analysis:
 1. **Top-Paying Data Analyst Jobs:** The highest-paying jobs for data analysts that allow remote work offer a wide range of salaries with the highest being at $650,000, while the highest salary for the non-remote postion is 400,000.
 2. **Skills for Top-Paying Jobs:** The high-paying data analyst jobs require advanced proficiency in SQL, suggesting it’s a critical skill for earning a top salary.
 3. **Most In-Demand Skills:** SQL is also the most demanded skill in the data analyst job market, thus making it essential for job seekers.
-4. **Skills with Higher Salaries:** Specialized skills, such as SVN and Solidity, are associated with the highest average salaries, indicating a premium on niche expertise.
+4. **Skills with Higher Salaries:** Big data tools like PySpark and Couchbase, along with AI tools like Watson and DataRobot, are highly valued for data analysts. Expertise in version control (Bitbucket, GitLab) and Python-based tools (Jupyter, Pandas) also command high salaries, with niche skills like Swift and Elasticsearch in demand for specialized roles.
 5. **Optimal Skills for Job Market Value:** SQL leads in demand and offers for a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their market value.
