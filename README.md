@@ -1,10 +1,11 @@
  # Introduction
- This project revolves around the DATA JOBS MARKET and involves analysis resulting in writing queries to answer questions related to top paying jobs, skills in high demand and much more, with main focus on DATA ANALYST JOBS.
+ This project involves working with DATA JOBS MARKET, analysing the data using SQL queries to identify top paying jobs, top skills in high demand and much more, with main focus on DATA ANALYST JOBS.
 
  To check the SQL queries go to [project_sql Folder](/project_sql/)
 
  # Background
- Given this is my first SQL project ever, I wanted it to be related to my actual goal, which is to become  a data analyst. The Data used in the course is based on the online course [SQL for Data Analytics](https://www.lukebarousse.com/sql) by [Luke Barousse](https://github.com/lukebarousse).
+ This was my first SQL project ever. I wanted it to be related to my actual goal, which is to become  a data analyst, hence, the analysis revolved around data analyst roles. 
+ The Data used in the course is based on the online course [SQL for Data Analytics](https://www.lukebarousse.com/sql) by [Luke Barousse](https://github.com/lukebarousse).
 
  **The main task of the Project was to analyze the Data Jobs Market, specifically the Data Analyst Jobs. This was achieved by making SQL queries to answer the following questions:**
 
@@ -19,13 +20,13 @@ It was my first time using all of these tools, I do have experience with other t
 
 - **SQL:** The coding language for the whole project.
 - **PostgreSQL:** The chosen database management system, ideal for handling the job posting data.
-- **Visual Studio Code:** Best tool for this project.
+- **Visual Studio Code:** Best tool for this project to write SQL queries.
 - **Power BI:** Used to create graphics.
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
  # The Analysis
 
  Each query was directed at a main task, followed by sub-tasks with respect to each question.
- My approach is as follows:
+ My approach was as follows:
 
  ### 1. Top Paying Data Analyst Jobs
 
@@ -76,7 +77,7 @@ _Bar graph describing average yearly salaries for the Top 10 non-remote data ana
 
 And the results:
 
-- **No Wide Salary Range:** Top 10 paying data analyst roles span from $245,000 to $400,000, compared to Remote postitions, Non-Remote positions do not offer much wider salary range and highest salary is also lower, implying lower salary potential.
+- **No Wide Salary Range:** Top 10 paying data analyst roles span from $245,000 to $400,000, compared to Remote postitions, Non-Remote positions do not seem to offer much wider salary range and highest salary is also lower, implying lower salary potential.
 
 - **Job Title Variety:** There's still a high diversity in job titles, from Data base administrator to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
@@ -306,3 +307,6 @@ Results from the Analysis:
 3. **Most In-Demand Skills:** SQL is also the most demanded skill in the data analyst job market, thus making it essential for job seekers.
 4. **Skills with Higher Salaries:** Big data tools like PySpark and Couchbase, along with AI tools like Watson and DataRobot, are highly valued for data analysts. Expertise in version control (Bitbucket, GitLab) and Python-based tools (Jupyter, Pandas) also command high salaries, with niche skills like Swift and Elasticsearch in demand for specialized roles.
 5. **Optimal Skills for Job Market Value:** SQL leads in demand and offers for a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their market value.
+
+### Closing Thoughts
+Working on this project provided me with a firsthand exposure to the world of data science. Although a small entry, but it allowed me to get a gist of the the problems that are solved by data analysts. Using SQL was fun. I can't wait to work on more projects. One thing I would like to add, working on this project gave me way more than I had expected, I learned how widely SQL is used and how much of an important skill it is, crazy to think how mere lines (of code) can reveal such profound results and help us progress further and make good decisions.
