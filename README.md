@@ -66,6 +66,8 @@ Here's the breakdown of the top data analyst jobs in 2023:
 ![Top Paying Jobs](assets\Top_10_paying_remote_data_analyst_jobs_2023.png)
 Bargraph describing average yearly salaries for the Top 10 remote data analysts postions, created using PowerBI.
 
+
+
  # Learning Outcomes
 Working on this project was fun, be it using the CTEs or messig up the JOINS, It really did involve learning and applying the knowledge I gained from the Beginner course. 
 
