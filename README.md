@@ -58,7 +58,7 @@ ORDER BY
 LIMIT 10 
 ```
 
-![Top Paying Remote Jobs](project_sql\Top_10_paying_remote_data_analyst_jobs_2023.png)
+![Top Paying Remote Jobs](Top_10_paying_remote_data_analyst_jobs_2023.png)
 _Bar graph describing average yearly salaries for the Top 10 remote data analysts postions. Created using Power BI._
 
 Breakdown of the top data analyst jobs in 2023:
